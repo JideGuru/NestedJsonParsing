@@ -1,0 +1,883 @@
+{
+    "data": [
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--557009513",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "4",
+                        "at": "2019-08-01T22:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T11:40:00+02:00"
+                      },
+                      "carrierCode": "DL",
+                      "number": "6744",
+                      "aircraft": {
+                        "code": "332"
+                      },
+                      "operating": {
+                        "carrierCode": "UX",
+                        "number": "6744"
+                      },
+                      "duration": "0DT7H35M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "Q",
+                      "availability": 9,
+                      "fareBasis": "QK1J51M3"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-2042780573",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "EWR",
+                        "terminal": "C",
+                        "at": "2019-08-01T20:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:20:00+02:00"
+                      },
+                      "carrierCode": "SN",
+                      "number": "9027",
+                      "aircraft": {
+                        "code": "777"
+                      },
+                      "operating": {
+                        "carrierCode": "UA",
+                        "number": "9027"
+                      },
+                      "duration": "0DT7H15M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "V",
+                      "availability": 4,
+                      "fareBasis": "VK650NCE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "274293",
+              "totalTaxes": "79709"
+            },
+            "pricePerAdult": {
+              "total": "274293",
+              "totalTaxes": "79709"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-61864284",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T20:50:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T10:10:00+02:00"
+                      },
+                      "carrierCode": "IB",
+                      "number": "6252",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "6252"
+                      },
+                      "duration": "0DT7H20M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--663039727",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "4",
+                        "at": "2019-08-01T19:30:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:15:00+02:00"
+                      },
+                      "carrierCode": "KL",
+                      "number": "6126",
+                      "aircraft": {
+                        "code": "764"
+                      },
+                      "operating": {
+                        "carrierCode": "DL",
+                        "number": "6126"
+                      },
+                      "duration": "0DT7H45M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "H",
+                      "availability": 4,
+                      "fareBasis": "HK1J51M3"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272672",
+              "totalTaxes": "78088"
+            },
+            "pricePerAdult": {
+              "total": "272672",
+              "totalTaxes": "78088"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--974983552",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "1",
+                        "at": "2019-08-01T23:55:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "2",
+                        "at": "2019-08-02T13:05:00+02:00"
+                      },
+                      "carrierCode": "DY",
+                      "number": "7704",
+                      "aircraft": {
+                        "code": "789"
+                      },
+                      "operating": {
+                        "carrierCode": "DY",
+                        "number": "7704"
+                      },
+                      "duration": "0DT7H10M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "T",
+                      "availability": 5,
+                      "fareBasis": "TSRES"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "124210",
+              "totalTaxes": "10343"
+            },
+            "pricePerAdult": {
+              "total": "124210",
+              "totalTaxes": "10343"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--1334181672",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T17:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T06:15:00+02:00"
+                      },
+                      "carrierCode": "AY",
+                      "number": "5654",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "5654"
+                      },
+                      "duration": "0DT7H10M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-251187518",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "EWR",
+                        "terminal": "C",
+                        "at": "2019-08-01T20:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:20:00+02:00"
+                      },
+                      "carrierCode": "LH",
+                      "number": "7970",
+                      "aircraft": {
+                        "code": "777"
+                      },
+                      "operating": {
+                        "carrierCode": "UA",
+                        "number": "7970"
+                      },
+                      "duration": "0DT7H15M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "V",
+                      "availability": 6,
+                      "fareBasis": "VK650NCE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "274293",
+              "totalTaxes": "79709"
+            },
+            "pricePerAdult": {
+              "total": "274293",
+              "totalTaxes": "79709"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-2029719720",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T20:50:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T10:10:00+02:00"
+                      },
+                      "carrierCode": "AY",
+                      "number": "5656",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "5656"
+                      },
+                      "duration": "0DT7H20M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-2092833671",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T17:10:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T06:25:00+02:00"
+                      },
+                      "carrierCode": "IB",
+                      "number": "6250",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "6250"
+                      },
+                      "duration": "0DT7H15M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--921535262",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "4",
+                        "at": "2019-08-01T22:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T11:40:00+02:00"
+                      },
+                      "carrierCode": "UX",
+                      "number": "92",
+                      "aircraft": {
+                        "code": "332"
+                      },
+                      "operating": {
+                        "carrierCode": "UX",
+                        "number": "92"
+                      },
+                      "duration": "0DT7H35M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "M",
+                      "availability": 9,
+                      "fareBasis": "MYYOAE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "646344",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "646344",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--1733441707",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "EWR",
+                        "terminal": "C",
+                        "at": "2019-08-01T20:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:20:00+02:00"
+                      },
+                      "carrierCode": "UA",
+                      "number": "51",
+                      "aircraft": {
+                        "code": "777"
+                      },
+                      "operating": {
+                        "carrierCode": "UA",
+                        "number": "51"
+                      },
+                      "duration": "0DT7H15M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "V",
+                      "availability": 9,
+                      "fareBasis": "VK650NCE"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-490545330",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "4",
+                        "at": "2019-08-01T19:30:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:15:00+02:00"
+                      },
+                      "carrierCode": "DL",
+                      "number": "126",
+                      "aircraft": {
+                        "code": "764"
+                      },
+                      "operating": {
+                        "carrierCode": "DL",
+                        "number": "126"
+                      },
+                      "duration": "0DT7H45M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "Q",
+                      "availability": 9,
+                      "fareBasis": "QK1J51M3"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "267987",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-1121894331",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "8",
+                        "at": "2019-08-01T18:55:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T08:10:00+02:00"
+                      },
+                      "carrierCode": "IB",
+                      "number": "4000",
+                      "aircraft": {
+                        "code": "772"
+                      },
+                      "operating": {
+                        "carrierCode": "AA",
+                        "number": "4000"
+                      },
+                      "duration": "0DT7H15M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--971033353",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T17:05:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T06:15:00+02:00"
+                      },
+                      "carrierCode": "BA",
+                      "number": "4270",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "4270"
+                      },
+                      "duration": "0DT7H10M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010--1902844032",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "7",
+                        "at": "2019-08-01T20:50:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "4S",
+                        "at": "2019-08-02T10:10:00+02:00"
+                      },
+                      "carrierCode": "BA",
+                      "number": "4268",
+                      "aircraft": {
+                        "code": "359"
+                      },
+                      "operating": {
+                        "carrierCode": "IB",
+                        "number": "4268"
+                      },
+                      "duration": "0DT7H20M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "L",
+                      "availability": 9,
+                      "fareBasis": "LKW5C9M5"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            },
+            "pricePerAdult": {
+              "total": "272311",
+              "totalTaxes": "73403"
+            }
+          }
+        ]
+      },
+      {
+        "type": "flight-offer",
+        "id": "1556700977010-963105195",
+        "offerItems": [
+          {
+            "services": [
+              {
+                "segments": [
+                  {
+                    "flightSegment": {
+                      "departure": {
+                        "iataCode": "JFK",
+                        "terminal": "4",
+                        "at": "2019-08-01T19:30:00-04:00"
+                      },
+                      "arrival": {
+                        "iataCode": "MAD",
+                        "terminal": "1",
+                        "at": "2019-08-02T09:15:00+02:00"
+                      },
+                      "carrierCode": "AF",
+                      "number": "3679",
+                      "aircraft": {
+                        "code": "764"
+                      },
+                      "operating": {
+                        "carrierCode": "DL",
+                        "number": "3679"
+                      },
+                      "duration": "0DT7H45M"
+                    },
+                    "pricingDetailPerAdult": {
+                      "travelClass": "ECONOMY",
+                      "fareClass": "H",
+                      "availability": 9,
+                      "fareBasis": "HK1J51M3"
+                    }
+                  }
+                ]
+              }
+            ],
+            "price": {
+              "total": "272672",
+              "totalTaxes": "78088"
+            },
+            "pricePerAdult": {
+              "total": "272672",
+              "totalTaxes": "78088"
+            }
+          }
+        ]
+      }
+    ],
+    "dictionaries": {
+      "carriers": {
+        "AA": "AMERICAN AIRLINES",
+        "KL": "KLM ROYAL DUTCH AIRLINES",
+        "UX": "AIR EUROPA",
+        "AF": "AIR FRANCE",
+        "DY": "NORWEGIAN AIR SHUTTLE",
+        "AY": "FINNAIR",
+        "DL": "DELTA AIR LINES",
+        "IB": "IBERIA",
+        "SN": "BRUSSELS AIRLINES",
+        "LH": "LUFTHANSA",
+        "UA": "UNITED AIRLINES",
+        "BA": "BRITISH AIRWAYS"
+      },
+      "currencies": {
+        "NGN": "NIGERIAN NAIRA"
+      },
+      "aircraft": {
+        "332": "AIRBUS INDUSTRIE A330-200",
+        "359": "AIRBUS INDUSTRIE A350-900",
+        "764": "BOEING 767-400",
+        "772": "BOEING 777-200/200ER",
+        "777": "BOEING 777-200/300",
+        "789": "BOEING 787-9"
+      },
+      "locations": {
+        "EWR": {
+          "subType": "AIRPORT",
+          "detailedName": "NEWARK LIBERTY INTL"
+        },
+        "MAD": {
+          "subType": "AIRPORT",
+          "detailedName": "ADOLFO SUAREZ BARAJAS"
+        },
+        "JFK": {
+          "subType": "AIRPORT",
+          "detailedName": "JOHN F KENNEDY INTL"
+        }
+      }
+    },
+    "meta": {
+      "links": {
+        "self": "https://test.api.amadeus.com/v1/shopping/flight-offers?origin=NYC&destination=MAD&departureDate=2019-08-01&adults=1&travelClass=ECONOMY&nonStop=true&currency=ngn&max=50"
+      },
+      "currency": "NGN"
+    }
+  }
